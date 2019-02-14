@@ -1,0 +1,43 @@
+.container {
+  width:70%;
+  margin:0 auto;
+}
+
+.addBtnDiv {
+  margin-top:40px;
+}
+
+.searchBtn {
+  margin-left: 5px;
+}
+
+.pagination {
+  /* background: red; */
+}
+
+.pagination_ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+.pagination_ul li {
+  display: inline;
+  margin:0 10px 0 10px;
+}
+
+.excel_pdf_options {
+  list-style-type: none;
+}
+
+.excel_pdf_options li {
+  display: inline;
+  margin:0 10px 0 10px;
+}
+
+#ItemFile {
+  display:none;
+}
+
+.excel_pdf_options div {
+  text-align: center;
+}
